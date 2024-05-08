@@ -1,6 +1,7 @@
 def hello_world():
-    # Write your code here to print "Hello World!"
-    # Delete the 'pass' below
+    # Remove the # in the line below and delete the word pass
+    # print("Hello World!")
+
     pass
    
 
