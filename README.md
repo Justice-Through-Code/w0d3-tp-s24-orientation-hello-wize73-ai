@@ -41,7 +41,7 @@ To get started with the assignment, follow these steps:
 
 2. Navigate to the cloned repository directory using your Command Line Interface (CLI):
    ```bash
-   cd hello-world-exercise
+   cd <folder name>
    ```
 
 3. Open the `hello.py` file in your preferred code editor.
@@ -58,7 +58,7 @@ To get started with the assignment, follow these steps:
      ```
    - Run the tests:
      ```bash
-     pytest hello_test.py
+     pytest test_hello.py
      ```
 
 5. If the tests pass, congratulations! You have completed the coding part of the assignment. If the tests fail, make necessary adjustments to your code and repeat step 4 until the tests pass. Take a screenshot and add it to Canvas.
